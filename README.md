@@ -45,7 +45,13 @@ I'm Himanshu — a passionate **Full-Stack Mobile App Developer** who loves turn
 
 ---
 
+---
+
 ### 📫 Connect With Me
 
 Let's build something awesome together!  
 Feel free to check out my projects or drop a ⭐ if you find them useful.
+
+- 🌐 [Website](https://hemyhex.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-sharma-0bbb52259/)
+

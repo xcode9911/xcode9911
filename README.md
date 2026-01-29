@@ -6,8 +6,8 @@
 <h3 align="center">Full-Stack Mobile App Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://hemyhex.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-hemyhex.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://hemy.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-hemy.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/himanshu-sharma-0bbb52259/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Himanshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -96,7 +96,7 @@ that solve real-world problems.
 ✨ Interested in **AI projects, mobile apps or collaborations**?  
 Let’s build something meaningful together.
 
-🌐 **Portfolio:** https://hemyhex.netlify.app  
+🌐 **Portfolio:** https://hemy.netlify.app  
 💼 **LinkedIn:** https://www.linkedin.com/in/himanshu-sharma-0bbb52259/
 
 ⭐ If you like my work, feel free to explore my repositories and drop a star!
